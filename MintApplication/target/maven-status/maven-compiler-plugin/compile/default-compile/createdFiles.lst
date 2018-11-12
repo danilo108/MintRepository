@@ -1,0 +1,14 @@
+mint\com\services\customers\controller\hateoas\assemblers\CustomerResourceAssembler.class
+mint\com\services\customers\controller\hateoas\models\CustomerResource.class
+mint\com\services\customers\service\CustomerServiceImpl.class
+mint\com\services\customers\MintApplication.class
+mint\com\services\customers\service\CustomerService.class
+mint\com\services\customers\controller\exceptions\MintRuntimeExceptionFactory.class
+mint\com\services\customers\model\repositories\CustomerRepository.class
+mint\com\services\customers\controller\exceptions\MintRuntimeException.class
+mint\com\services\customers\controller\hateoas\models\CustomerList.class
+mint\com\services\customers\model\BasicResource.class
+mint\com\services\customers\controller\CustomersController.class
+mint\com\services\customers\RestResponseEntityExceptionHandler.class
+mint\com\services\customers\CommandLineAppStartupRunner.class
+mint\com\services\customers\model\Customer.class

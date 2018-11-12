@@ -1,0 +1,19 @@
+= Customers API Documentation
+
+== Introduction
+This is the customers API introduction
+
+== Customers API
+Collection of CRUD API endpoints used to manipulate customers.
+
+=== GetAll
+Obtains all the customers.
+
+==== Sample Request
+include::{snippets}/customers/getAll/http-request.adoc[]
+
+==== Sample Response
+include::{snippets}/customers/getAll/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/customers/getAll/curl-request.adoc[]

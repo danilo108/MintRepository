@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: mint.com.services.customers.CustomerControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.233 s <<< FAILURE! - in mint.com.services.customers.CustomerControllerTest
+getAllTest(mint.com.services.customers.CustomerControllerTest)  Time elapsed: 1.58 s  <<< FAILURE!
+java.lang.AssertionError: 
+JSON path "$.list"
+Expected: not an empty collection
+     but: was <[]>
+	at mint.com.services.customers.CustomerControllerTest.getAllTest(CustomerControllerTest.java:63)
+

@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"list":[{"customerId":"5be9975bc1bf2a2d043b8dbf","name":"Name1","lastName":"Suraname1","address":"1, Somewhere street ","_links":{"self":{"href":"http://localhost:8080/customers/5be9975bc1bf2a2d043b8dbf"},"all":{"href":"http://localhost:8080/"}}}],"_links":{"all":{"href":"http://localhost:8080/"},"all first page":{"href":"http://localhost:8080/customers?pageNumber=0&pageSize=10"}}}
+----
